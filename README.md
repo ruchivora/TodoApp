@@ -9,6 +9,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Command to install Angular Cli
     npm install -g @angular/cli
    
-##Command to run the project
+## Command to run the project
     ng serve TodoApp
 
